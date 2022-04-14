@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=campos2504&label=Profile%20views&color=0e75b6&style=flat" alt="campos2504" /> </p>
 
-- 🔭 I’m currently working on [TIS_Hello_friends](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti4-0658100-hello-friends)
-
-- 🌱 I’m currently learning **Spring**
-
-- 👨‍💻 All of my projects are available at [https://github.com/campos2504](https://github.com/campos2504)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
