@@ -65,8 +65,8 @@ Full Stack Software Engineer with **4+ years** building and maintaining scalable
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=campos2504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campos2504&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=campos2504&theme=tokyonight" alt="GitHub Stats">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=campos2504&theme=tokyonight" alt="Most Used Languages">
 </p>
 
 <p align="center">
